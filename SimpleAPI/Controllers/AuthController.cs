@@ -7,5 +7,7 @@ namespace SimpleAPI.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
+        //added by jonathan
+        int count = 60;
     }
 }
